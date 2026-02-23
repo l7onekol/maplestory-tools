@@ -25,7 +25,7 @@
     "predeploy": "npm run build:github",
     "deploy": "gh-pages -d build"
   },
-  "homepage": ".",
+  "homepage": "https://l7onekol.github.io/maplestory-tools",
   "eslintConfig": {
     "extends": [
       "react-app",
